@@ -1,2 +1,2 @@
-# 280426_newRepo
-10. kurss - Applied Data Science Capstone
+# Applied Data Science Capstone
+Part of IBM Data Science Professional Certificate
